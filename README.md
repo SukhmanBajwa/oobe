@@ -3,7 +3,7 @@
 From the OOBE Screen press Shift + F10
 
 ```
-curl -L christitus.com/bypass -o skip.cmd
+curl -L sukhmanbajwa.com/bypass -o skip.cmd
 skip.cmd
 ```
 
